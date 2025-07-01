@@ -1,2 +1,3 @@
-alert(Hell,Yoshiki!/Math.sqrt(1+1));
+alert('Hello,Yoshiki!');
+alert(Math.sqrt(1+1));
 
