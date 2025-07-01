@@ -1,2 +1,2 @@
-alert(Math.sqrt(1+1));
+alert(Hell,Yoshiki!/Math.sqrt(1+1));
 
