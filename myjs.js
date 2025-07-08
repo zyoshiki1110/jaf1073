@@ -1,2 +1,2 @@
-alert(Math.sqrt(Number('2')+3);
+alert('Hello, Yoshiki');
 
